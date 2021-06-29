@@ -1,0 +1,1 @@
+import{o as n,c as s,a}from"./app.0f37f8f2.js";const p='{"title":"异步循环","description":"","frontmatter":{"title":"异步循环"},"headers":[{"level":3,"title":"异步循环","slug":"异步循环"}],"relativePath":"note/asynchronous-loop.md","lastUpdated":1620396302248}',t={},o=a('',15);t.render=function(a,p,t,c,e,u){return n(),s("div",null,[o])};export default t;export{p as __pageData};
